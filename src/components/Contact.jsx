@@ -1,4 +1,5 @@
 import React from 'react';
+import '../assets/index.css'; // Ensure this path is correct
 
 function Contact() {
   return (

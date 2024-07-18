@@ -2,6 +2,7 @@ import React from 'react';
 import '../assets/index.css'
 import Skills from '../components/Skills';
 import Contact from '../components/Contact';
+import Projects from '../components/Projects';
 
 const Home = () => {
   return (
@@ -12,6 +13,7 @@ const Home = () => {
       <main style={{ padding: '20px' }}>
         <h2>Hello, World!</h2>
         <p>This is your first React page created using Vite.</p>
+        <Projects/>
         <Skills/>
         <Contact/>
       </main>
