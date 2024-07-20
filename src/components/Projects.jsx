@@ -30,7 +30,7 @@ function Projects() {
                 </div>
             </section>
             <section id="project-2" className="project">
-            <div className="project-title">
+                <div className="project-title">
                     <h3>2. Apex Edutainment</h3>
                     <div className="info-container">
                     <img className="project-img" src="https://raw.githubusercontent.com/Hardeepthiara/myportfolio/main/public/images/ApexEdutainment.png" alt="Live project looks like this" />
@@ -52,8 +52,29 @@ function Projects() {
                 </div>
             </section>
             <section id="project-3" className="project">
-                <div className="project-title">
-                    
+            <div className="project-title">
+                    <h3>2. Apex Edutainment</h3>
+                    <div className="info-container">
+                    <img className="project-img" src="https://raw.githubusercontent.com/Hardeepthiara/myportfolio/main/public/images/Fashionista.png" alt="Live project looks like this" />
+                    <div className="project-info">
+                        <p>At FASHIONSITA, we bring the fashion world to your fingertips,
+                        embracing the latest trends and styles for men, women, and kids.
+                        Our MERN technology-driven platform ensures a seamless and
+                        immersive shopping experience, making your journey through the
+                        realms of fashion enjoyable and convenient</p>
+                        <ul className="tech-stack">
+                        <li className="skill">
+                            <img src="#" alt="React logo" width="30" height="50" />
+                        </li>
+                        <li className="skill">
+                            <img src="#" alt="CSS3 logo" width="30" height="30" />
+                        </li>
+                        <li className="skill">
+                            <img src="#" alt="JavaScript logo" width="30" height="30" />
+                        </li>
+                        </ul>
+                    </div>
+                    </div>
                 </div>
             </section>                    
         </div>
