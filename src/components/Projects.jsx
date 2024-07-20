@@ -30,8 +30,25 @@ function Projects() {
                 </div>
             </section>
             <section id="project-2" className="project">
-                <div className="project-title">
-                   
+            <div className="project-title">
+                    <h3>2. Apex Edutainment</h3>
+                    <div className="info-container">
+                    <img className="project-img" src="https://raw.githubusercontent.com/Hardeepthiara/myportfolio/main/public/images/ApexEdutainment.png" alt="Live project looks like this" />
+                    <div className="project-info">
+                        <p>The Leader in Online Learning,Engaging & Accessible Online Courses For All.Own your future learning new skills online</p>
+                        <ul className="tech-stack">
+                        <li className="skill">
+                            <img src="#" alt="React logo" width="30" height="50" />
+                        </li>
+                        <li className="skill">
+                            <img src="#" alt="CSS3 logo" width="30" height="30" />
+                        </li>
+                        <li className="skill">
+                            <img src="#" alt="JavaScript logo" width="30" height="30" />
+                        </li>
+                        </ul>
+                    </div>
+                    </div>
                 </div>
             </section>
             <section id="project-3" className="project">
